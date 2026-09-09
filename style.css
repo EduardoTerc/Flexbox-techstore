@@ -33,7 +33,7 @@ main{
 }
 .catalogo{
     background-color: white;
-    padding: 50px;
+    padding: 100px;
 }
 .produtos{
     display: flex;
